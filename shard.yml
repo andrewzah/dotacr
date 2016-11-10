@@ -1,0 +1,12 @@
+name: dota
+version: 0.0.1
+
+dependencies:
+  cossack:
+    github: greyblake/crystal-cossack
+    version: ~> 0.1
+
+authors:
+  - Andrew Zah <zah@andrewzah.com>
+
+license: MIT
