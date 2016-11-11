@@ -17,14 +17,14 @@ module Dota
         itemdef: Int32
       )
 
+      def id
+        @leagueid
+      end
+
       enum Tiers
         Amateur      = 1
         Professional
         Premier
-      end
-
-      def to_s
-        "League: #{@name}"
       end
     end
   end

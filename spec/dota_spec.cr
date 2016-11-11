@@ -13,9 +13,9 @@ describe Dota do
     Dota::Dota.configuration.api_key.should eq "xx"
   end
 
-  # set up api
+  # Set up API with Travis env vars
   Dota::Dota.configure do |config|
-    config.api_key = "xx"
+    config.api_key = ENV["api_key"]
   end
   api = Dota::Dota.api
 
