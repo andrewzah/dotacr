@@ -3,12 +3,7 @@ module Dota
     class Match
       include Dota::API::MatchStatus
       include Dota::API::PlayerStatus
-
-      module LogoConverter
-        def self.from_json(parser : JSON::PullParser) : String
-          parser.read_raw.to_s
-        end
-      end
+      include Dota::API::Converters
 
       JSON.mapping(
         match_id: Int64,
@@ -47,12 +42,16 @@ module Dota
         players: {type: Array(Player), nilable: true}
       )
 
+      def id
+        @match_id
+      end
+
       class Draft
         JSON.mapping(
           is_pick: Bool,
           hero_id: Int32,
           team: Teams,
-          order: Int32
+          order: Int8
         )
       end
 

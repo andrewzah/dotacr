@@ -84,7 +84,7 @@ module Dota
 
       def live_matches(options = {} of String => Int32 | String)
         response = get("GetLiveLeagueGames", LiveMatchesList, "IDOTA2Match_570", options)
-        response.games if response.games.size > 0
+        response.liveMatches if response.liveMatches.size > 0
       end
 
       def cosmetic_rarities(options = {"language" => "en"})
