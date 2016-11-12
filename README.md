@@ -90,7 +90,7 @@ api.get(<Method>, <Class>, <Interface>, <Options Hash>)
 api.get("GetMatchDetails", API::Match, "IDOTA2Match_570", {"match_id" => 789645621})
 ```
 
-**Note**: For queries that return an array of objects, you must use the relative list class:  
+**Note**: For queries that return an array of objects, you must use the relative list class:
 * Match => MatchesList
 * BasicMatch => BasicMatchesList
 * League => LeaguesList
