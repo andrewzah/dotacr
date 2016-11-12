@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script adapted from https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
-
+echo `ls`
 set -e # Exit with nonzero exit code if anything fails
 
 SOURCE_BRANCH="master"
