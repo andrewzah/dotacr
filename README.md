@@ -1,3 +1,8 @@
+
+![Logo](https://sli.mg/IeIxRC.png)
+
+[![Build Status](https://travis-ci.org/azah/dotacr.svg?branch=master)](https://travis-ci.org/azah/dotacr)   [![docs](https://img.shields.io/badge/docs-latest-green.svg)](https://azah.github.io/dotacr/doc/master/)
+
 # dotacr
 
 A Crystal client for the [DotA 2 API](https://wiki.teamfortress.com/wiki/WebAPI#Dota_2).
