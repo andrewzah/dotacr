@@ -46,36 +46,26 @@ module Dota
         @match_id
       end
 
+      def radiant
+        Side.new(:radiant, @radiant_score, @barracks_status_radiant,
+          @tower_status_radiant, @radiant_team_id, @radiant_name,
+          @radiant_logo, @radiant_team_complete, @radiant_captain,
+          @picks_bans, @players)
+      end
+
+      def dire
+        Side.new(:dire, @dire_score, @barracks_status_dire,
+          @tower_status_dire, @dire_team_id, @dire_name,
+          @dire_logo, @dire_team_complete, @dire_captain,
+          @picks_bans, @players)
+      end
+
       class Draft
         JSON.mapping(
           is_pick: Bool,
           hero_id: Int32,
           team: Teams,
           order: Int8
-        )
-      end
-
-      class Player < BasicPlayer
-        include Dota::API::PlayerStatus
-
-        JSON.mapping(
-          account_id: {type: Int64, nilable: true},
-          player_slot: Int8,
-          hero_id: Int8,
-          kills: Int16,
-          deaths: Int16,
-          assists: Int16,
-          leaver_status: Status,
-          last_hits: Int16,
-          denies: Int16,
-          gold_per_min: Int16,
-          xp_per_min: Int16,
-          item0_id: {type: Int16, key: "item_0"},
-          item1_id: {type: Int16, key: "item_1"},
-          item2_id: {type: Int16, key: "item_2"},
-          item3_id: {type: Int16, key: "item_3"},
-          item4_id: {type: Int16, key: "item_4"},
-          item5_id: {type: Int16, key: "item_5"}
         )
       end
     end

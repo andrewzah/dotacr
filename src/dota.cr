@@ -3,7 +3,10 @@ require "json"
 
 require "./dota/utils/mapped"
 require "./dota/api/status/*"
+require "./dota/api/basic/*"
 require "./dota/api/cosmetic/rarity"
+require "./dota/api/match/*"
+require "./dota/api/live_match/*"
 require "./dota/*"
 require "./dota/api/*"
 

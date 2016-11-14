@@ -1,4 +1,7 @@
 language: crystal
+branches:
+  only:
+  - master
 script:
 - crystal deps
 - crystal spec

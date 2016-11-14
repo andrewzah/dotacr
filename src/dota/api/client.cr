@@ -138,6 +138,32 @@ module Dota
         raise ResponseException.new(result.error) if result.is_a?(ErrorResponse)
         result
       end
+
+      # For those who want a JSON::Any object to do their bidding with.
+      def get_JSON_any(method, interface, params)
+        do_request_JSON(method, interface, params)
+      end
+
+      private def do_request_JSON(method, interface = "IDOTA2Match_570", params = {} of String => String)
+        method_version = params.delete(:api_version) || configuration.api_version
+        url = "https://api.steampowered.com/#{interface}/#{method}/#{method_version}"
+        stringParams = {"key" => configuration.api_key.as(String)}
+        params.each { |k, v| stringParams[k] = "#{v}" }
+
+        @cossack = Cossack::Client.new(url)
+        response = @cossack.not_nil!.get("", stringParams)
+
+        if response.status != 200
+          case response.status
+          when 400...499
+            raise ClientErrorException.new("#{response.status}: #{response.body}")
+          when 500...599
+            raise ServerErrorException.new("#{response.status}: #{response.body}")
+          end
+        end
+
+        JSON.parse(response.body)
+      end
     end
   end
 end

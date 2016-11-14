@@ -1,5 +1,4 @@
-
-![Logo](https://sli.mg/IeIxRC.png)
+![Logo](http://sli.mg/24VTkn.png)
 
 [![Build Status](https://travis-ci.org/azah/dotacr.svg?branch=master)](https://travis-ci.org/azah/dotacr)   [![docs](https://img.shields.io/badge/docs-latest-green.svg)](https://azah.github.io/dotacr/doc/master/)
 
@@ -39,7 +38,10 @@ Then use the client:
 
 ```crystal
 api = Dota.api
+```
 
+## Supported API Methods
+```crystal
 api.hero(13)                            # => (Cached) A single hero - "Puck"
 api.heroes                              # => (Cached) All heroes
 
@@ -86,7 +88,7 @@ api.cosmetic_rarities                   # => All cosmetic rarities
 api.friends(76561198052976237)           # => All friends of user
 ```
 
-#### Custom Requests
+## Custom Requests
 
 For the unsupported endpoints, you can use `api.get`. For example, the following code is similar to `api.matches(789645621)` except it will return the raw JSON payload instead of an array of `Dota::Match`es.
 
@@ -100,6 +102,12 @@ api.get("GetMatchDetails", API::Match, "IDOTA2Match_570", {"match_id" => 7896456
 * BasicMatch => BasicMatchesList
 * League => LeaguesList
 * etc.
+
+You can also get the response as `JSON::Any`, with `#get_JSON_any`:
+
+```crystal
+api.get_JSON_any("GetMatchDetails", "IDOTA2Match_570", {"match_id" => 789645621, "api_version" => "v1"})
+```
 
 ## API Objects
 
@@ -207,6 +215,8 @@ hero_id       # Int32
 `Dota::API::MatchesList` has one member: `matches: Array(Dota::API::Match)`.
 
 ```crystal
+match.radiant                 # Dota::API::Match::Side
+match.dire                    # Dota::API::Match::Side
 match.id                      # Int64
 match.radiant_win             # Bool
 match.duration                # Int32, Length of the match, in seconds since the match began
@@ -265,14 +275,25 @@ player.item2_id      # Int16
 player.item3_id      # Int16
 player.item4_id      # Int16
 player.item5_id      # Int16
+
+# Dota::API::Match::Side
+side.score           # Int32
+side.barracks_status # Dota::API::MatchStatus::Barracks
+side.tower_status    # Dota::API::MatchStatus::Towers
+side.team_id         # Int32 | Nil
+side.team_name       # String | Nil
+side.team_logo       # String | Nil
+side.team_complete   # Int32 | Nil
+side.picks_bans      # Array(Dota::API::Match::Draft) | Nil
+side.players         # Array(Dota::API::Match::Player) | Nil
 ```
 
 #### Live Matches
 `Dota::API::LiveMatchesList` has one member: `liveMatches: Array(Dota::API::Match)`.
 
 ```crystal
-live_match.radiant          # Dota::API::LiveMatch::Side, Info about the team on the Radiant side
-live_match.dire             # Dota::API::LiveMatch::Side, Info about the team on the Dire side
+live_match.radiant          # Dota::API::LiveMatch::Side
+live_match.dire             # Dota::API::LiveMatch::Side
 
 live_match.id               # Int64
 live_match.lobby_id         # Int64
@@ -306,7 +327,7 @@ sb.radiant                  # Dota::API::LiveMatch::Side
 sb.dire                     # Dota::API::LiveMatch::Side
 ```
 
-### Side (Currently only used by LiveMatch)
+### Side
 ```crystal
 side.score           # Int32
 side.tower_state     # Enum, Dota::API::MatchStatus::Towers
@@ -352,7 +373,7 @@ lp.item5_id           # Int16
 `Dota::API::FriendsList` has one member: `friends: Array(Dota::API::Friend)`.
 
 ```crystal
-friend.steamid  # String
+friend.steamid         # String
 friend.relationship    # String
 friend.friend_since    # Int32
 ```
