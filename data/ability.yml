@@ -2254,10 +2254,66 @@
   - life_stealer_control
   - Control
   - Life Stealer Control
+5656:
+  - granite_golem_hp_aura
+  - HP Aura
+  - Granite Golem HP Aura
+5657:
+  - life_stealer_empty_1
+  - Empty 1
+  - Lifestealer Empty 1
+5658:
+  - life_stealer_empty_2
+  - Empty 2
+  - Lifestealer Empty 2
+5659:
+  - life_stealer_empty_3
+  - Empty 3
+  - Lifestealer Empty 3
+5660:
+  - life_stealer_empty_4
+  - Empty 4
+  - Lifestealer Empty 4
+5661:
+  - cny_beast_force_attack
+  - Force Attack
+  - Chinese New Years Beast Force Attack
+5662:
+  - cny2015_sonic_wave
+  - Sonic Wave
+  - Chinese New Years Sonic Weave
+5663:
+  - cny2015_black_hole
+  - Black Hole
+  - Chinese New Years Black Hole
+5664:
+  - cny2015_chronosphere
+  - Chronosphere
+  - Chinese New Years Chronosphere
+5665:
+  - cny_beast_teleport
+  - Teleport
+  - Chinese New Years Teleport
 5666:
   - nyx_assassin_burrow
   - Burrow
   - Nyx Assassin Burrow
+5667:
+  - mod_golem_rock_destroy
+  - Rock Destroy
+  - Mud Golem Rock Destroy
+5668:
+  - tusk_ice_shards_stop
+  - Ice Shards Stop
+  - Tusk Ice Shards Stop
+5669:
+  - ability_deward
+  - Ability Deward
+  - Ability Deward
+5670:
+  - mud_golem_hurl_boulder
+  - Hurl Boulder
+  - Mud Golem Hurl Boulder
 5671:
   - life_stealer_assimilate
   - Assimilate
@@ -2278,3 +2334,1692 @@
   - life_stealer_assimilate_eject
   - Eject
   - Life Stealer Eject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5676:
+  - courier_take_stash_and_transfer_items
+  - Take Stash and Transfer Items
+  - Courier Take Stash and Transfer Items
+5677:
+  - arc_warden_flux
+  - Flux
+  - Arc Warden Flux
+5678:
+  - arc_warden_magnetic_field
+  - Magnetic Field
+  - Arc Warden Magnetic Field
+5679:
+  - arc_warden_spark_wraith
+  - Spark Wraith
+  - Arc Warden Spark Wraith
+5680:
+  - granite_golem_bash
+  - Bash
+  - Granite Golem Bash
+5681:
+  - black_dragon_dragonhide_aura
+  - Dragonhide Aura
+  - Black Dragon Dragonhide Aura
+5682:
+  - big_thunder_lizard_wardrums_aura
+  - Wardrums Aura
+  - Big Thunder Lizard Wardrums Aura
+5683:
+  - arc_warden_tempest_double
+  - Tempest Double
+  - Arc Warden Tempest Double
+5684:
+  - obsidian_destroyer_mind_over_matter
+  - Mind over Matter
+  - Obsidian Destroyer Mind over Matter
+5685:
+  - death_prophet_spirit_siphon
+  - Spirit Siphon
+  - Death Prophet Spirit Siphon
+5686:
+  - ancient_golem_rockslide
+  - Rockslide
+  - Ancient Golem Rockslide
+5687:
+  - lone_druid_savage_roar_bear
+  - Savage Roar Bear
+  - Lone Druid Savage Roar Bear
+5688:
+  - mudgolem_cloak_aura
+  - Cloak Area
+  - Mud Golem Cloak Area
+5689:
+  - black_dragon_fireball
+  - Fireball
+  - Black Dragon Fireball
+5690:
+  - invoker_attribute_bonus
+  - Attribute Bonus
+  - Invoker Attribute Bonus
+5691:
+  - faceless_void_time_dilation
+  - Time Dilation
+  - Faceless Void Time Dilation
+5716:
+  - monkey_king_boundless_strike
+  - Boundless Strike
+  - Monkey King Boundless Strike
+5719:
+  - monkey_king_mischief
+  - Mischief
+  - Monkey King Mischief
+5721:
+  - monkey_king_tree_dance
+  - Tree Dance
+  - Monkey King Tree Dance
+5722:
+  - monkey_king_untransform
+  - Revert Form
+  - Monkey King Revert Form
+5723:
+  - monkey_king_jingu_mastery
+  - Jingu Mastery
+  - Monkey King Jingu Mastery
+5724:
+  - monkey_king_primal_spring
+  - Primal Spring
+  - Monkey King Primal Spring
+5725:
+  - monkey_king_wukongs_command
+  - Wukong's Command
+  - Monkey King Wukong's Command
+5726:
+  - monkey_king_primal_spring_early
+  - Spring Early
+  - Monkey King Spring Early
+5750:
+  - elder_titan_natural_order_spirit
+  - Natural Order Spirit
+  - Elder Titan Natural Order Spirit
+5900:
+  - special_bonus_hp_100
+  - +100 Health
+  - Special Bonus +100 Health
+5901:
+  - special_bonus_hp_125
+  - +125 Health
+  - Special Bonus +125 Health
+5902:
+  - special_bonus_hp_150
+  - +150 Health
+  - Special Bonus +150 Health
+5903:
+  - special_bonus_hp_250
+  - +250 Health
+  - Special Bonus +250 Health
+5904:
+  - special_bonus_mp_125
+  - +125 Mana
+  - Special Bonus +125 Mana
+5905:
+  - special_bonus_mp_150
+  - +150 Mana
+  - Special Bonus +150 Mana
+5906:
+  - special_bonus_attack_speed_20
+  - +20 Attack Speed
+  + Special Bonus +20 Attack Speed
+5907:
+  - special_bonus_attack_speed_30
+  - +30 Attack Speed
+  - Special Bonus +30 Attack Speed
+5908:
+  - special_bonus_attack_speed_60
+  - +60 Attack Speed
+  - Special Bonus +60 Attack Speed
+5909:
+  - special_bonus_hp_regen_4
+  - +4 Health Regen
+  - Special Bonus +4 Health Regen
+5910:
+  - special_bonus_hp_regen_5
+  - +5 Health Regen
+  - Special Bonus +5 Health Regen
+5911:
+  - special_bonus_hp_regen_8
+  - +8 Health Regen
+  - Special Bonus +8 Health Regen
+5912:
+  - special_bonus_hp_regen_10
+  - +10 Health Regen
+  - Special Bonus +10 Health Regen
+5913:
+  - special_bonus_hp_regen_14
+  - +14 Health Regen
+  - Special Bonus +14 Health Regen
+5914:
+  - special_bonus_hp_regen_15
+  - +15 Health Regen
+  - Special Bonus +15 Health Regen
+5915:
+  - special_bonus_mp_regen_1
+  - +1 Mana Regen
+  - Special Bonus +1 Mana Regen
+5916:
+  - special_bonus_mp_regen_4
+  - +4 Mana Regen
+  - Special Bonus +4 Mana Regen
+5917:
+  - special_bonus_movement_speed_15
+  - +15 Movement Speed
+  - Special Bonus +15 Movement Speed
+5918:
+  - special_bonus_movement_speed_20
+  - +20 Movement Speed
+  - Special Bonus +20 Movement Speed
+5919:
+  - special_bonus_movement_speed_25
+  - +25 Movement Speed
+  - Special Bonus +25 Movement Speed
+5920:
+  - special_bonus_all_stats_4
+  - +4 All Stats
+  - Special Bonus +4 All Stats
+5921:
+  - special_bonus_all_stats_5
+  - +5 All Stats
+  - Special Bonus +5 All Stats
+5922:
+  - special_bonus_all_stats_6
+  - +6 All Stats
+  - Special Bonus +6 All Stats
+5923:
+  - special_bonus_all_stats_8
+  - +8 All Stats
+  - Special Bonus +8 All Stats
+5924:
+  - special_bonus_intelligence_6
+  - +6 Intelligence
+  - Special Bonus +6 Intelligence
+5925:
+  - special_bonus_intelligence_8
+  - +8 Intelligence
+  - Special Bonus +8 Intelligence
+5926:
+  - special_bonus_intelligence_12
+  - +12 Intelligence
+  - Special Bonus +12 Intelligence
+5927:
+  - special_bonus_strength_5
+  - +5 Strength
+  - Special Bonus +5 Strength
+5928:
+  - special_bonus_strength_12
+  - +12 Strength
+  - Special Bonus +12 Strength
+5929:
+  - special_bonus_agility_15
+  - +15 Agility
+  - Special Bonus +15 Agility
+5930:
+  - special_bonus_armor_3
+  - +3 Armor
+  - Special Bonus +3 Armor
+5931:
+  - special_bonus_armor_4
+  - +4 Armor
+  - Special Bonus +4 Armor
+5932:
+  - special_bonus_armor_5
+  - +5 Armor
+  - Special Bonus +5 Armor
+5933:
+  - special_bonus_armor_6
+  - +6 Armor
+  - Special Bonus +6 Armor
+5934:
+  - special_bonus_armor_8
+  - +8 Armor
+  - Special Bonus +8 Armor
+5935:
+  - special_bonus_magic_resistance_5
+  - +5% Magic Resistance
+  - Special Bonus +5% Magic Resistance
+5936:
+  - special_bonus_magic_resistance_8
+  - +8% Magic Resistance
+  - Special Bonus +8% Magic Resistance
+5937:
+  - special_bonus_magic_resistance_10
+  - +10% Magic Resistance
+  - Special Bonus +10% Magic Resistance
+5938:
+  - special_bonus_attack_damage_15
+  - +15 Damage
+  - Special Bonus +15 Damage
+5939:
+  - special_bonus_attack_damage_30
+  - +30 Damage
+  - Special Bonus +30 Damage
+5940:
+  - special_bonus_attack_damage_40
+  - +40 Damage
+  - Special Bonus +40 Damage
+5941:
+  - special_bonus_attack_damage_50
+  - +50 Damage
+  - Special Bonus +50 Damage
+5942:
+  - special_bonus_attack_damage_75
+  - +75 Damage
+  - Special Bonus +75 Damage
+5943:
+  - special_bonus_attack_range_100
+  - +100 Attack Range
+  - Special Bonus +100 Attack Range
+5944:
+  - special_bonus_attack_range_125
+  - +125 Attack Range
+  - Special Bonus +125 Attack Range
+5945:
+  - special_bonus_attack_range_200
+  - +200 Attack Range
+  - Special Bonus +200 Attack Range
+5946:
+  - special_bonus_cast_range_50
+  - +50 Cast Range
+  - Special Bonus +50 Cast Range
+5947:
+  - special_bonus_cast_range_75
+  - +75 Cast Range
+  - Special Bonus +75 Cast Range
+5948:
+  - special_bonus_spell_amplify_5
+  - +5% Spell Amplification
+  = Special Bonus +5% Spell Amplification
+5949:
+  - special_bonus_spell_amplify_8
+  - +8% Spell Amplification
+  - Special Bonus +8% Spell Amplification
+5950:
+  - special_bonus_cooldown_reduction_8
+  - 8% Cooldown Reduction
+  - Special Bonus 8% Cooldown Reduction
+5951:
+  - special_bonus_cooldown_reduction_15
+  - 15% Cooldown Reduction
+  - Special Bonus 15% Cooldown Reduction
+5952:
+  - special_bonus_cooldown_reduction_20
+  - 20% Cooldown Reduction
+  - Special Bonus 20% Cooldown Reduction
+5953:
+  - special_bonus_respawn_reduction_20
+  - -20s Respawn Time
+  - Special Bonus -20s Respawn Time
+5954:
+  - special_bonus_respawn_reduction_25
+  - -25s Respawn Time
+  - Special Bonus -25s Respawn Time
+5955:
+  - special_bonus_gold_income_5
+  - +30 Gold/Min
+  - Special Bonus +30 Gold/Min
+5956:
+  - special_bonus_gold_income_10
+  - +60 Gold/Min
+  - Special Bonus +60 Gold/Min
+5957:
+  - special_bonus_gold_income_25
+  - +150 Gold/Min
+  - Special Bonus +150 Gold/Min
+5958:
+  - special_bonus_movement_speed_10
+  - +10 Movement Speed
+  - Special Bonus +10 Movement Speed
+5959:
+  - special_bonus_hp_200
+  - +200 Health
+  - Special Bonus +200 Health
+5960:
+  - special_bonus_attack_damage_20
+  - +20 Damage
+  - Special Bonus +20 Damage
+5961:
+  - special_bonus_mp_regen_2
+  - +2 Mana Regen
+  - Special Bonus +2 Mana Regen
+5962:
+  - special_bonus_agility_20
+  - +20 Agility
+  - Special Bonus +20 Agility
+5963:
+  - special_bonus_attack_range_150
+  - +150 Attack Range
+  - Special Bonus +150 Attack Range
+5964:
+  - special_bonus_respawn_reduction_30
+  - -30s Respawn Time
+  - Special Bonus -30s Respawn Time
+5965:
+  - special_bonus_intelligence_10
+  - +10 Intelligence
+  - Special Bonus +10 Intelligence
+5966:
+  - special_bonus_hp_regen_7
+  - +7 Health Regen
+  - Special Bonus +7 Health Regen
+5968:
+  - special_bonus_attack_damage_90
+  - +90 Damage
+  - Special Bonus +90 Damage
+5969:
+  - special_bonus_hp_regen_6
+  - +6 Health Regen
+  - Special Bonus +6 Health Regen
+5970:
+  - special_bonus_armor_7
+  - +7 Armor
+  - Special Bonus +7 Armor
+5971:
+  - special_bonus_evasion_10
+  - 10% Evasion
+  - Special Bonus 10% Evasion
+5972:
+  - special_bonus_evasion_15
+  - 15% Evasion
+  - Special Bonus 15% Evasion
+5973:
+  - special_bonus_evasion_20
+  - 20% Evasion
+  - Special Bonus 20% Evasion
+5974:
+  - special_bonus_evasion_25
+  - 25% Evasion
+  - Special Bonus 25% Evasion
+5975:
+  - special_bonus_respawn_reduction_15
+  - -15s Respawn Time
+  - Special Bonus -15s Respawn Time
+5976:
+  - special_bonus_hp_400
+  - +400 Health
+  - Special Bonus +400 Health
+5977:
+  - special_bonus_unique_clockwerk
+  - +10s Battery Assault Duration
+  - Special Bonus +10s Battery Assault Duration
+5979:
+  - special_bonus_attack_damage_100
+  - +100 Damage
+  - Special Bonus +100 Damage
+5980:
+  - special_bonus_mp_regen_6
+  - +6 Mana Regen
+  - Special Bonus +6 Mana Regen
+5981:
+  - special_bonus_unique_omniknight_1
+  - +200 Purification Damage/Heal
+  - Special Bonus +200 Purification Damage/Heal
+5982:
+  - special_bonus_strength_8
+  - +8 Strength
+  - Special Bonus +8 Strength
+5983:
+  - special_bonus_exp_boost_5
+  - +5% XP Gain
+  - Special Bonus +5% XP Gain
+5984:
+  - special_bonus_strength_25
+  - +25 Strength
+  - Special Bonus +25 Strength
+5985:
+  - special_bonus_exp_boost_10
+  - +10% XP Gain
+  - Special Bonus +10% XP Gain
+5986:
+  - special_bonus_exp_boost_15
+  - +15% XP Gain
+  - Special Bonus +15% XP Gain
+5987:
+  - special_bonus_exp_boost_25
+  - +25% XP Gain
+  - Special Bonus +25% XP Gain
+5988:
+  - special_bonus_unique_centaur_2
+  - +1s Hoof Stomp Duration
+  - Special Bonus +1s Hoof Stomp Duration
+5989:
+  - special_bonus_spell_amplify_10
+  - +10% Spell Amplification
+  - Special Bonus +10% Spell Amplification
+5990:
+  - special_bonus_mp_300
+  - +300 Mana
+  - Special Bonus +300 Mana
+5991:
+  - special_bonus_intelligence_15
+  - +15 Intelligence
+  - Special Bonus +15 Intelligence
+5992:
+  - special_bonus_attack_range_50
+  - +50 Attack Range
+  - Special Bonus +50 Attack Range
+5993:
+  - special_bonus_hp_300
+  - +300 Health
+  - Special Bonus +300 Health
+5994:
+  - special_bonus_magic_resistance_6
+  - +6% Magic Resistance
+  - Special Bonus +6% Magic Resistance
+5995:
+  - special_bonus_intelligence_20
+  - +20 Intelligence
+  - Special Bonus +20 Intelligence
+5996:
+  - special_bonus_spell_amplify_6
+  - +6% Spell Amplification
+  - Special Bonus +6% Spell Amplification
+5998:
+  - special_bonus_unique_witch_doctor_1
+  - +150 Death Ward Attack Range
+  - Special Bonus +150 Death Ward Attack Range
+6000:
+  - special_bonus_magic_resistance_20
+  - +20% Magic Resistance
+  - Special Bonus +20% Magic Resistance
+6002:
+  - special_bonus_strength_3
+  - +3 Strength
+  - Special Bonus +3 Strength
+6003:
+  - special_bonus_cast_range_100
+  - +100 Cast Range
+  - Special Bonus +100 Cast Range
+6004:
+  - special_bonus_armor_10
+  - +10 Armor
+  - Special Bonus +10 Armor
+6005:
+  - special_bonus_strength_4
+  - +4 Strength
+  - Special Bonus +4 Strength
+6006:
+  - special_bonus_mp_250
+  - +250 Mana
+  - Special Bonus +250 Mana
+6007:
+  - special_bonus_gold_income_15
+  - +90 Gold/Min
+  - Special Bonus +90 Gold/Min
+6008:
+  - special_bonus_gold_income_20
+  - +120 Gold/Min
+  - Special Bonus +120 Gold/Min
+6009:
+  - special_bonus_attack_damage_25
+  - +25 Damage
+  - Special Bonus +25 Damage
+6010:
+  - special_bonus_unique_necrophos
+  - -1s Death Pulse Cooldown
+  - Special Bonus -1s Death Pulse Cooldown
+6011:
+  - special_bonus_agility_13
+  - +13 Agility
+  - Special Bonus +13 Agility
+6012:
+  - special_bonus_unique_antimage
+  - -2s Blink Cooldown
+  - Special Bonus -2s Blink Cooldown
+6013:
+  - special_bonus_unique_mirana_1
+  - +100 Leap Attack Speed
+  - Special Bonus +100 Leap Attack Speed
+6014:
+  - special_bonus_agility_8
+  - +8 Agility
+  - Special Bonus +8 Agility
+6015:
+  - special_bonus_spell_amplify_4
+  - +4% Spell Amplification
+  - Special Bonus +4% Spell Amplification
+6016:
+  - special_bonus_attack_speed_25
+  - +25 Attack Speed
+  - Special Bonus +25 Attack Speed
+6017:
+  - special_bonus_exp_boost_20
+  - +20% XP Gain
+  - Special Bonus +20% XP Gain
+6018:
+  - special_bonus_unique_bounty_hunter
+  - -5s Jinada Cooldown
+  - Special Bonus -5s Jinada Cooldown
+6019:
+  - special_bonus_unique_underlord
+  - +0.4s Pit of Malice Root
+  - Special Bonus +0.4s Pit of Malice Root
+6020:
+  - special_bonus_attack_speed_50
+  - +50 Attack Speed
+  - Special Bonus +50 Attack Speed
+6021:
+  - special_bonus_cooldown_reduction_10
+  - 10% Cooldown Reduction
+  - Special Bonus 10% Cooldown Reduction
+6022:
+  - special_bonus_hp_regen_40
+  - +40 Health Regen
+  - Special Bonus +40 Health Regen
+6023:
+  - special_bonus_unique_pudge_1
+  - +1.75 Flesh Heap Stack Str
+  - Special Bonus +1.75 Flesh Heap Stack Str
+6024:
+  - special_bonus_unique_treant
+  - +5 Living Armor Block Instances
+  - Special Bonus +5 Living Armor Block Instances
+6025:
+  - special_bonus_20_bash_2
+  - +20% 2s Bash
+  - Special Bonus +20% 2s Bash
+6026:
+  - special_bonus_gold_income_30
+  - +180 Gold/Min
+  - Special Bonus +180 Gold/Min
+6027:
+  - special_bonus_attack_range_75
+  - +75 Attack Range
+  - Special Bonus +75 Attack Range
+6028:
+  - special_bonus_unique_razor
+  - +14 Static Link Damage Steal
+  - Special Bonus +14 Static Link Damage Steal
+6029:
+  - special_bonus_agility_10
+  - +10 Agility
+  - Special Bonus +10 Agility
+6030:
+  - special_bonus_attack_speed_80
+  - +80 Attack Speed
+  - Special Bonus +80 Attack Speed
+6031:
+  - special_bonus_unique_visage_1
+  - +18 Familiar Attack Per Charge
+  - Special Bonus +18 Familiar Attack Per Charge
+6032:
+  - special_bonus_cast_range_60
+  - +60 Cast Range
+  - Special Bonus +60 Cast Range
+6034:
+  - special_bonus_hp_175
+  - +175 Health
+  - Special Bonus +175 Health
+6035:
+  - special_bonus_unique_earthshaker
+  - -2s Enchant Totem Cooldown
+  - Special Bonus -2s Enchant Totem Cooldown
+6037:
+  - special_bonus_attack_speed_100
+  - +100 Attack Speed
+  - Special Bonus +100 Attack Speed
+6038:
+  - special_bonus_respawn_reduction_35
+  - -35s Respawn Time
+  - Special Bonus -35s Respawn Time
+6039:
+  - special_bonus_unique_lich_1
+  - +25 Frost Armor Structure Armor
+  - Special Bonus +25 Frost Armor Structure Armor
+6040:
+  - special_bonus_attack_range_250
+  - +250 Attack Range
+  - Special Bonus +250 Attack Range
+6041:
+  - special_bonus_unique_rubick
+  - +400 Telekinesis Land Distance
+  - Special Bonus +400 Telekinesis Land Distance
+6042:
+  - special_bonus_intelligence_13
+  - +13 Intelligence
+  - Special Bonus +13 Intelligence
+6045:
+  - special_bonus_unique_sven
+  - -5s Storm Hammer Cooldown
+  - Special Bonus -5s Storm Hammer Cooldown
+6047:
+  - special_bonus_unique_dark_seer
+  - +70 Ion Shell Damage
+  - Special Bonus +70 Ion Shell Damage
+6048:
+  - special_bonus_strength_6
+  - +6 Strength
+  - Special Bonus +6 Strength
+6049:
+  - special_bonus_unique_dazzle_1
+  - -6s Poison Touch Cooldown
+  - Special Bonus -6s Poison Touch Cooldown
+6050:
+  - special_bonus_intelligence_25
+  - +25 Intelligence
+  - Special Bonus +25 Intelligence
+6051:
+  - special_bonus_attack_range_300
+  - +300 Attack Range
+  - Special Bonus +300 Attack Range
+6052:
+  - special_bonus_unique_shadow_shaman_1
+  - "+1 Serpent Wards Attacks HP"
+6053:
+  - special_bonus_unique_warlock_1
+  - Magic Immunity for Chaotic Offering Golems
+  - Special Bonus Magic Immunity for Chaotic Offering Golems
+6054:
+  - special_bonus_unique_warlock_2
+  - Special Bonus +15 Chaotic Offering Golems Armor
+6055:
+  - special_bonus_spell_amplify_15
+  - +15% Spell Amplification
+  - Special Bonus +15% Spell Amplification
+6056:
+  - special_bonus_cast_range_150
+  - +150 Cast Range
+  - Special Bonus +150 Cast Range
+6057:
+  - special_bonus_unique_vengeful_spirit_3
+  - Magic Missile Pierces Spell Immunity
+  - Special Bonus Magic Missile Pierces Spell Immunity
+6058:
+  - special_bonus_unique_venomancer
+  - 3x Plague Ward HP/Damage
+  - Special Bonus 3x Plague Ward HP/Damage
+6059:
+  - special_bonus_respawn_reduction_60
+  - -60s Respawn Time
+  - Special Bonus -60s Respawn Time
+6060:
+  - special_bonus_intelligence_30
+  - +30 Intelligence
+  - Special Bonus +30 Intelligence
+6061:
+  - special_bonus_spell_lifesteal_70
+  - 70% Spell Lifesteal
+  - Special Bonus 70% Spell Lifesteal
+6062:
+  - special_bonus_unique_morphling_1
+  - +400 Waveform Range
+  - Special Bonus +400 Waveform Range
+6063:
+  - special_bonus_unique_leshrac_1
+  - +50 Diabolic Edict Explosions
+  - Special Bonus +50 Diabolic Edict Explosions
+6064:
+  - special_bonus_unique_jakiro
+  - +1.25s Ice Path Duration
+  - Special Bonus +1.25s Ice Path Duration
+6065:
+  - special_bonus_unique_enigma
+  - +8 Demonic Conversion Eidolons
+  - Special Bonus +8 Demonic Conversion Eidolons
+6066:
+  - special_bonus_respawn_reduction_40
+  - -40s Respawn Time
+  - Special Bonus -40s Respawn Time
+6067:
+  - special_bonus_mp_175
+  - +175 Mana
+  - Special Bonus +175 Mana
+6068:
+  - special_bonus_unique_bane_1
+  - +120 Enfeeble Damage Reduction
+  - Special Bonus +120 Enfeeble Damage Reduction
+6069:
+  - special_bonus_unique_bane_2
+  - +200 Brain Sap Damage/Heal
+  - Special Bonus +200 Brain Sap Damage/Heal
+6070:
+  - special_bonus_unique_nevermore_2
+  - -7s Shadow Raze Cooldown
+  - Special Bonus -7s Shadow Raze Cooldown
+6071:
+  - special_bonus_unique_templar_assassin
+  - +3 Refraction Instances
+  - Special Bonus +3 Refraction Instances
+6072:
+  - special_bonus_unique_crystal_maiden_1
+  - +1.5s Frostbite Duration
+  - Special Bonus +1.5s Frostbite Duration
+6073:
+  - special_bonus_unique_doom_1
+  - +2% Infernal Blade Damage
+  - Special Bonus +2% Infernal Blade Damage
+6074:
+  - special_bonus_all_stats_7
+  - +7 All Stats
+  - Special Bonus +7 All Stats
+6077:
+  - special_bonus_movement_speed_35
+  - +35 Movement Speed
+  - Special Bonus +35 Movement Speed
+6078:
+  - special_bonus_lifesteal_20
+  - 20% Lifesteal
+  - Special Bonus 20% Lifesteal
+6079:
+  - special_bonus_hp_regen_20
+  - +20 Health Regen
+  - Special Bonus +20 Health Regen
+6080:
+  - special_bonus_strength_20
+  - +20 Strength
+  - Special Bonus +20 Strength
+6082:
+  - special_bonus_unique_brewmaster
+  - +14 Primal Split Unit Armor
+  - Special Bonus +14 Primal Split Unit Armor
+6083:
+  - special_bonus_unique_bristleback
+  - +4 Max Goo Stacks
+  - Special Bonus +4 Max Goo Stacks
+6084:
+  - special_bonus_unique_furion
+  - +6 Treants Summoned
+  - Special Bonus +6 Treants Summoned
+6085:
+  - special_bonus_unique_phoenix_2
+  - +1s Supernova Stun Duration
+  - Special Bonus +1s Supernova Stun Duration
+6086:
+  - special_bonus_unique_enchantress_2
+  - +10 Nature's Attendants Wisps
+  - Special Bonus +10 Nature's Attendants Wisps
+6087:
+  - special_bonus_unique_batrider_1
+  - +8s Firefly Duration
+  - Special Bonus +8s Firefly Duration
+6088:
+  - special_bonus_unique_wraith_king_2
+  - +20% Vampiric Aura Lifesteal
+  - Special Bonus +20% Vampiric Aura Lifesteal
+6089:
+  - special_bonus_unique_kunkka
+  - +200 Torrent AoE
+  - Special Bonus +200 Torrent AoE
+6090:
+  - special_bonus_unique_dragon_knight
+  - 2x Dragon Blood HP Regen/Armor
+  - Special Bonus 2x Dragon Blood HP Regen/Armor
+6091:
+  - special_bonus_magic_resistance_25
+  - +25% Magic Resistance
+  - Special Bonus +25% Magic Resistance
+6092:
+  - special_bonus_day_vision_400
+  - +400 Day Vision
+  - Special Bonus +400 Day Vision
+6093:
+  - special_bonus_movement_speed_40
+  - +40 Movement Speed
+  - Special Bonus +40 Movement Speed
+6094:
+  - special_bonus_mp_200
+  - +200 Mana
+  - Special Bonus +200 Mana
+6095:
+  - special_bonus_attack_damage_10
+  - +10 Damage
+  - Special Bonus +10 Damage
+6096:
+  - special_bonus_mp_100
+  - +100 Mana
+  - Special Bonus +100 Mana
+6097:
+  - special_bonus_unique_invoker_1
+  - +1 Forged Spirit Summoned
+  - Special Bonus +1 Forged Spirit Summoned
+6098:
+  - special_bonus_unique_invoker_2
+  - AoE Deafening Blast
+  - Special Bonus AoE Deafening Blast
+6099:
+  - special_bonus_unique_invoker_3
+  - -15s Tornado Cooldown
+  - Special Bonus -15s Tornado Cooldown
+6100:
+  - special_bonus_unique_abaddon
+  - +200 Aphotic Shield Health
+  - Special Bonus +200 Aphotic Shield Health
+6101:
+  - special_bonus_unique_alchemist
+  - -4 Acid Spray Armor
+  - Special Bonus -4 Acid Spray Armor
+6102:
+  - special_bonus_unique_axe
+  - +100 Battle Hunger DPS
+  - Special Bonus +100 Battle Hunger DPS
+6103:
+  - special_bonus_unique_beastmaster
+  - +175 Wild Axes Damage
+  - Special Bonus +175 Wild Axes Damage
+6104:
+  - special_bonus_unique_clinkz_1
+  - +30 Searing Arrows Damage
+  - Special Bonus +30 Searing Arrows Damage
+6105:
+  - special_bonus_unique_juggernaut
+  - +175 Blade Fury DPS
+  - Special Bonus +175 Blade Fury DPS
+6106:
+  - special_bonus_unique_winter_wyvern_1
+  - +15% Arctic Burn Slow
+  - Special Bonus +15% Arctic Burn Slow
+6107:
+  - special_bonus_unique_terrorblade
+  - -30s Sunder Cooldown
+  - Special Bonus -30s Sunder Cooldown
+6110:
+  - special_bonus_armor_2
+  - +2 Armor
+  - Special Bonus +2 Armor
+6111:
+  - special_bonus_lifesteal_25
+  - 25% Lifesteal
+  - Special Bonus 25% Lifesteal
+6112:
+  - special_bonus_attack_damage_120
+  - +120 Damage
+  - Special Bonus +120 Damage
+6114:
+  - special_bonus_cast_range_200
+  - +200 Cast Range
+  - Special Bonus +200 Cast Range
+6115:
+  - special_bonus_strength_7
+  - +7 Strength
+  - Special Bonus +7 Strength
+6116:
+  - special_bonus_mp_regen_10
+  - +10 Mana Regen
+  - Special Bonus +10 Mana Regen
+6117:
+  - special_bonus_intelligence_7
+  - +7 Intelligence
+  - Special Bonus +7 Intelligence
+6118:
+  - special_bonus_attack_speed_10
+  - +10 Attack Speed
+  - Special Bonus +10 Attack Speed
+6119:
+  - special_bonus_attack_speed_15
+  - +15 Attack Speed
+  - Special Bonus +15 Attack Speed
+6120:
+  - special_bonus_cast_range_175
+  - +175 Cast Range
+  - Special Bonus +175 Cast Range
+6121:
+  - special_bonus_lifesteal_30
+  - 30% Lifesteal
+  - Special Bonus 30% Lifesteal
+6125:
+  - spawnlord_aura
+  - Spawnlord Aura
+  - Spawnlord Aura
+6126:
+  - spawnlord_master_bash
+  - Master Bash
+  - Spawnlord Master Bash
+6127:
+  - special_bonus_unique_luna_2
+  - -4s Lucent Beam Cooldown
+  - Special Bonus -4s Lucent Beam Cooldown
+6128:
+  - special_bonus_unique_faceless_void
+  - +600 Timewalk Cast Range
+  - Special Bonus +600 Timewalk Cast Range
+6129:
+  - special_bonus_unique_night_stalker
+  - -6s Crippling Fear Cooldown
+  - Special Bonus -6s Crippling Fear Cooldown
+6130:
+  - special_bonus_unique_nyx
+  - 200% Spiked Carapace Damage
+  - Special Bonus 200% Spiked Carapace Damage
+6131:
+  - special_bonus_unique_weaver_2
+  - +200 Shukuchi Movement Speed
+  - Special Bonus +200 Shukuchi Movement Speed
+6132:
+  - special_bonus_unique_ursa
+  - +10 Fury Swipes Damage
+  - Special Bonus +10 Fury Swipes Damage
+6133:
+  - special_bonus_unique_chaos_knight
+  - Reality Rift Pierces Spell Immune
+  - Special Bonus Reality Rift Pierces Spell Immune
+6134:
+  - special_bonus_unique_lycan_1
+  - +15s Shapeshift Duration
+  - Special Bonus +15s Shapeshift Duration
+6135:
+  - special_bonus_all_stats_15
+  - +15 All Stats
+  - Special Bonus +15 All Stats
+6136:
+  - special_bonus_armor_9
+  - +9 Armor
+  - Special Bonus +9 Armor
+6137:
+  - special_bonus_strength_10
+  - +10 Strength
+  - Special Bonus +10 Strength
+6138:
+  - special_bonus_magic_resistance_15
+  - +15% Magic Resistance
+  - Special Bonus +15% Magic Resistance
+6139:
+  - special_bonus_all_stats_12
+  - +12 All Stats
+  - Special Bonus +12 All Stats
+6140:
+  - special_bonus_unique_lycan_2
+  - +2 Wolves Summoned
+  - Special Bonus +2 Wolves Summoned
+6141:
+  - special_bonus_movement_speed_30
+  - +30 Movement Speed
+  - Special Bonus +30 Movement Speed
+6142:
+  - special_bonus_attack_damage_65
+  - +65 Damage
+  - Special Bonus +65 Damage
+6144:
+  - special_bonus_unique_windranger
+  - -5s Powershot Cooldown
+  - Special Bonus -5s Powershot Cooldown
+6145:
+  - special_bonus_strength_15
+  - +15 Strength
+  - Special Bonus +15 Strength
+6146:
+  - special_bonus_unique_phantom_lancer
+  - +600 Phantom Rush Range
+  - Special Bonus +600 Phantom Rush Range
+6147:
+  - special_bonus_unique_slark
+  - +3s Pounce Leash
+  - Special Bonus +3s Pounce Leash
+6148:
+  - special_bonus_unique_spectre
+  - -10s Spectral Dagger Cooldown
+  - Special Bonus -10s Spectral Dagger Cooldown
+6149:
+  - special_bonus_unique_spirit_breaker_1
+  - +17% Greater Bash Chance
+  - Special Bonus +17% Greater Bash Chance
+6150:
+  - special_bonus_agility_25
+  - +25 Agility
+  - Special Bonus +25 Agility
+6151:
+  - special_bonus_unique_tidehunter
+  - -5 Gush Armor
+  - Special Bonus -5 Gush Armor
+6152:
+  - special_bonus_unique_tinker
+  - +100 Laser Damage
+  - Special Bonus +100 Laser Damage
+6153:
+  - special_bonus_unique_tiny
+  - +200 Avalanche Damage
+  - Special Bonus +200 Avalanche Damage
+6154:
+  - special_bonus_unique_troll_warlord
+  - -7s Whirling Axes Cooldown
+  - Special Bonus -7s Whirling Axes Cooldown
+6155:
+  - special_bonus_unique_undying
+  - +40 Tombstone Zombie Damage
+  - Special Bonus +40 Tombstone Zombie Damage
+6156:
+  - special_bonus_unique_viper_1
+  - Poison Attack Affects Buildings
+  - Special Bonus Poison Attack Affects Buildings
+6157:
+  - special_bonus_unique_zeus
+  - +1.5% Static Field Damage
+  - Special Bonus +1.5% Static Field Damage
+6158:
+  - special_bonus_lifesteal_10
+  - 10% Lifesteal
+  - Special Bonus 10% Lifesteal
+6159:
+  - special_bonus_attack_damage_12
+  - +12 Damage
+  - Special Bonus +12 Damage
+6160:
+  - special_bonus_mp_regen_3
+  - +3 Mana Regen
+  - Special Bonus +3 Mana Regen
+6161:
+  - special_bonus_cast_range_250
+  - +250 Cast Range
+  - Special Bonus +250 Cast Range
+6162:
+  - special_bonus_spell_amplify_3
+  - +3% Spell Amplification
+  - Special Bonus +3% Spell Amplification
+6164:
+  - special_bonus_attack_damage_35
+  - +35 Damage
+  - Special Bonus +35 Damage
+6165:
+  - special_bonus_unique_viper_2
+  - +80 Viper Strike DPS
+  - Special Bonus +80 Viper Strike DPS
+6166:
+  - special_bonus_spell_lifesteal_20
+  - 20% Spell Lifesteal
+  - Special Bonus 20% Spell Lifesteal
+6167:
+  - special_bonus_unique_storm_spirit
+  - +0.75s Electric Vortex
+  - Special Bonus +0.75s Electric Vortex
+6168:
+  - special_bonus_all_stats_10
+  - +10 All Stats
+  - Special Bonus +10 All Stats
+6169:
+  - special_bonus_agility_16
+  - +16 Agility
+  - Special Bonus +16 Agility
+6170:
+  - special_bonus_agility_14
+  - +14 Agility
+  - Special Bonus +14 Agility
+6171:
+  - special_bonus_unique_elder_titan
+  - +80 Astral Spirit Hero Attack
+  - Special Bonus +80 Astral Spirit Hero Attack
+6172:
+  - special_bonus_unique_ember_spirit_1
+  - +500 Flame Guard Absorption
+  - Special Bonus +500 Flame Guard Absorption
+6173:
+  - special_bonus_unique_lifestealer
+  - +1s Rage Duration
+  - Special Bonus +1s Rage Duration
+6174:
+  - special_bonus_unique_lion
+  - +3 Mana Drain Multi Target
+  - Special Bonus +3 Mana Drain Multi Target
+6175:
+  - special_bonus_armor_15
+  - +15 Armor
+  - Special Bonus +15 Armor
+6176:
+  - special_bonus_unique_ember_spirit_2
+  - +2s Searing Chains
+  - Special Bonus +2s Searing Chains
+6180:
+  - special_bonus_unique_luna_1
+  - +40 Lucent Beam Damage
+  - Special Bonus +40 Lucent Beam Damage
+6181:
+  - special_bonus_unique_skywrath
+  - -4s Ancient Seal Cooldown
+  - Special Bonus -4s Ancient Seal Cooldown
+6182:
+  - special_bonus_unique_medusa
+  - +1s Stone Gaze Stun
+  - Special Bonus +1s Stone Gaze Stun
+6183:
+  - special_bonus_unique_ogre_magi
+  - +40 Bloodlust AS
+  - Sepcial Bonus +40 Bloodlust AS
+6184:
+  - special_bonus_unique_silencer
+  - +20% Curse Slow
+  - Sepcial Bonus +20% Curse Slow
+6185:
+  - special_bonus_mp_500
+  - +500 Mana
+  - Special Bonus +500 Mana
+6186:
+  - special_bonus_attack_range_175
+  - +175 Attack Range
+  - Special Bonus +175 Attack Range
+6190:
+  - special_bonus_cooldown_reduction_12
+  - 12% Cooldown Reduction
+  - Special Bonus 12% Cooldown Reduction
+6191:
+  - special_bonus_unique_death_prophet
+  - +6 Exorcism Spirits
+  - Special Bonus +6 Exorcism Spirits
+6192:
+  - special_bonus_unique_phantom_assassin
+  - Double Strike Stifling Dagger
+  - Special Bonus Double Strike Stifling Dagger
+6193:
+  - special_bonus_unique_riki_2
+  - -4s Smokescreen Cooldown
+  - Special Bonus -4s Smokescreen Cooldown
+6194:
+  - special_bonus_unique_tusk
+  - +150% Walrus Punch Crit
+  - Special Bonus +150% Walrus Punch Crit
+6195:
+  - special_bonus_hp_350
+  - +350 Health
+  - Special Bonus +350 Health
+6196:
+  - special_bonus_attack_speed_35
+  - +35 Attack Speed
+  - Special Bonus +35 Attack Speed
+6197:
+  - special_bonus_cast_range_125
+  - +125 Cast Range
+  - Special Bonus +125 Cast Range
+6198:
+  - special_bonus_unique_sniper_2
+  - +4 Shrapnel Charges
+  - Special Bonus +4 Shrapnel Charges
+6199:
+  - special_bonus_unique_magnus
+  - -4s Shockwave Cooldown
+  - Special Bonus -4s Shockwave Cooldown
+6200:
+  - special_bonus_unique_weaver_1
+  - +30 Shukuchi Damage
+  - Special Bonus +30 Shukuchi Damage
+6201:
+  - special_bonus_unique_wraith_king_1
+  - No Reincarnation Manacost
+  - Special Bonus No Reincarnation Manacost
+6202:
+  - special_bonus_unique_drow_ranger_1
+  - +6% Precision Aura Damage
+  - Special Bonus +6% Precision Aura Damage
+6203:
+  - special_bonus_unique_earth_spirit
+  - +300 Rolling Boulder Damage
+  - Special Bonus +300 Rolling Boulder Damage
+6204:
+  - special_bonus_unique_huskar
+  - +400 Life Break Cast Range
+  - Special Bonus +400 Life Break Cast Range
+6205:
+  - special_bonus_unique_naga_siren
+  - +1 Mirror Image Illusion
+  - Special Bonus +1 Mirror Image Illusion
+6206:
+  - special_bonus_unique_oracle
+  - +2 False Promise Duration
+  - Special Bonus +2 False Promise Duration
+6207:
+  - special_bonus_unique_sand_king
+  - +4 Epicenter Pulses
+  - Special Bonus +4 Epicenter Pulses
+6208:
+  - special_bonus_unique_shadow_demon_1
+  - +400 Demonic Purge Damage
+  - Special Bonus +400 Demonic Purge Damage
+6209:
+  - special_bonus_unique_drow_ranger_2
+  - +350 Gust Distance/Knockback
+  - Special Bonus +350 Gust Distance/Knockback
+6210:
+  - special_bonus_attack_speed_40
+  - +40 Attack Speed
+  - Special Bonus +40 Attack Speed
+6211:
+  - special_bonus_unique_slardar
+  - +10% Bash Chance
+  - Special Bonus +10% Bash Chance
+6212:
+  - special_bonus_unique_lina_1
+  - -4s Dragon Slave Cooldown
+  - Special Bonus -4s Dragon Slave Cooldown
+6213:
+  - special_bonus_cast_range_300
+  - +300 Cast Range
+  - Special Bonus +300 Cast Range
+6214:
+  - special_bonus_unique_ancient_apparition_1
+  - 3 Charges of Cold Feet
+  - Special Bonus 3 Charges of Cold Feet
+6215:
+  - special_bonus_unique_disruptor
+  - +4 Thunder Strike Hits
+  - Special Bonus +4 Thunder Strike Hits
+6216:
+  - special_bonus_unique_gyrocopter_1
+  - +3 Homing Missile Charges
+  - Special Bonus +3 Homing Missile Charges
+6217:
+  - special_bonus_unique_keeper_of_the_light
+  - +200 Illuminate Damage/Heal
+  - Special Bonus +200 Illuminate Damage/Heal
+6218:
+  - special_bonus_unique_legion_commander
+  - +40 Duel Damage Bonus
+  - Special Bonus +40 Duel Damage Bonus
+6219:
+  - special_bonus_unique_puck
+  - +75% Illusory Orb Distance/Speed
+  - Special Bonus +75% Illusory Orb Distance/Speed
+6220:
+  - special_bonus_unique_pugna_1
+  - +50% Life Drain Heal
+  - Special Bonus +50% Life Drain Heal
+6221:
+  - special_bonus_magic_resistance_30
+  - +30% Magic Resistance
+  - Special Bonus +30% Magic Resistance
+6222:
+  - special_bonus_cooldown_reduction_25
+  - 25% Cooldown Reduction
+  - Special Bonus 25% Cooldown Reduction
+6223:
+  - special_bonus_unique_timbersaw
+  - +6% Whirling Death Attribute Reduction
+  - Special Bonus +6% Whirling Death Attribute Reduction
+6224:
+  - special_bonus_attack_speed_45
+  - +45 Attack Speed
+  - Special Bonus +45 Attack Speed
+6225:
+  - special_bonus_unique_morphling_2
+  - +30% Replicate Damage
+  - Special Bonus +30% Replicate Damage
+6226:
+  - filler_ability
+  - Filler Ability
+  - Filler Ability
+6227:
+  - special_bonus_unique_phoenix_1
+  - +2 Supernova Hit Count
+  - Special Bonus +2 Supernova Hit Count
+6228:
+  - special_bonus_vision_200
+  - +200 Vision
+  - Special Bonus +200 Vision
+6229:
+  - special_bonus_unique_batrider_2
+  - +200 Flamebreak AoE/Knockback
+  - Special Bonus +200 Flamebreak AoE/Knockback
+6230:
+  - special_bonus_unique_bloodseeker
+  - -7s Bloodrite Cooldown
+  - Special Bonus -7s Bloodrite Cooldown
+6231:
+  - special_bonus_unique_clinkz_2
+  - +70 Strafe Attack Speed
+  - Special Bonus +70 Strafe Attack Speed
+6232:
+  - special_bonus_unique_dazzle_2
+  - +60 Shadow Wave Heal
+  - Special Bonus +60 Shadow Wave Heal
+6234:
+  - special_bonus_unique_crystal_maiden_2
+  - +200 Crystal Nova Damage
+  - Special Bonus +200 Crystal Nova Damage
+6235:
+  - special_bonus_hp_500
+  - +500 Health
+  - Special Bonus +500 Health
+6236:
+  - special_bonus_spell_amplify_20
+  - +20% Spell Amplification
+  - Special Bonus +20% Spell Amplification
+6237:
+  - special_bonus_unique_vengeful_spirit_2
+  - +20% Vengeance Aura Damage
+  - Special Bonus +20% Vengeance Aura Damage
+6238:
+  - special_bonus_unique_pugna_2
+  - +100 Nether Blast Damage
+  - Special Bonus +100 Nether Blast Damage
+6239:
+  - special_bonus_evasion_12
+  - 12% Evasion
+  - Special Bonus 12% Evasion
+6240:
+  - special_bonus_unique_leshrac_2
+  - +2s Lightning Storm Slow Duration
+  - Special Bonus +2s Lightning Storm Slow Duration
+6241:
+  - special_bonus_unique_outworld_devourer
+  - +60s Arcane Orb Int Steal
+  - Special Bonus +60s Arcane Orb Int Steal
+6242:
+  - special_bonus_unique_mirana_2
+  - +2 Multishot Sacred Arrows
+  - Special Bonus +2 Multishot Sacred Arrows
+6243:
+  - special_bonus_mp_regen_8
+  - +8 Mana Regen
+  - Special Bonus +8 Mana Regen
+6245:
+  - special_bonus_unique_pudge_2
+  - +120 Rot Damage
+  - Special Bonus +120 Rot Damage
+6247:
+  - special_bonus_attack_damage_150
+  - +150 Damage
+  - Special Bonus +150 Damage
+6248:
+  - special_bonus_intelligence_35
+  - +35 Intelligence
+  - Special Bonus +35 Intelligence
+6249:
+  - special_bonus_movement_speed_45
+  - +45 Movement Speed
+  - Special Bonus +45 Movement Speed
+6250:
+  - special_bonus_strength_9
+  - +9 Strength
+  - Special Bonus +9 Strength
+6252:
+  - special_bonus_all_stats_14
+  - +14 All Stats
+  - Special Bonus +14 All Stats
+6253:
+  - special_bonus_attack_damage_45
+  - +45 Damage
+  - Special Bonus +45 Damage
+6254:
+  - special_bonus_mp_350
+  - +350 Mana
+  - Special Bonus +350 Mana
+6255:
+  - special_bonus_mp_regen_14
+  - +14 Mana Regen
+  - Special Bonus +14 Mana Regen
+6257:
+  - special_bonus_unique_broodmother_1
+  - +8 Max Webs
+  - Special Bonus +8 Max Webs
+6258:
+  - special_bonus_unique_broodmother_2
+  - +200 Spiders Health
+  - Special Bonus +200 Spiders Health
+6259:
+  - special_bonus_unique_chen_1
+  - +2 Holy Persuation Max Count
+  - Special Bonus +2 Holy Persuation Max Count
+6260:
+  - special_bonus_unique_chen_2
+  - +200 Hand of God Heal
+  - Special Bonus +200 Hand of God Heal
+6261:
+  - special_bonus_unique_lone_druid_1
+  - +30 Spirit Bear Damage
+  - Special Bonus +30 Spirit Bear Damage
+6262:
+  - special_bonus_unique_lone_druid_2
+  - +7 Spirit Bear Armor
+  - Special Bonus +7 Spirit Bear Armor
+6263:
+  - special_bonus_unique_lone_druid_3
+  - +1.5s Entangle Duration
+  - Special Bonus +1.5s Entangle Duration
+6265:
+  - special_bonus_unique_wisp
+  - +150 Spirits Damage
+  - Special Bonus +150 Spirits Damage
+6268:
+  - special_bonus_unique_lone_druid_4
+  - -10s Savage Roar Cooldown
+  - Special Bonus -10s Savage Roar Cooldown
+6269:
+  - special_bonus_respawn_reduction_50
+  - -50s Respawn Time
+  - Special Bonus -50s Respawn Time
+6270:
+  - spawnlord_master_stomp
+  - Master Stomp
+  - Spawnlord Master Stomp
+6278:
+  - spawnlord_master_freeze
+  - Master Freeze
+  - Spawnlord Master Freeze
+6280:
+  - special_bonus_unique_drow_ranger_3
+  - +25 Marksmanship Agility
+  - Special Bonus +25 Marksmanship Agility
+6281:
+  - special_bonus_strength_14
+  - +14 Strength
+  - Special Bonus +14 Strength
+6282:
+  - special_bonus_unique_techies
+  - +400 Blast Off Damage
+  - Special Bonus +400 Blast Off Damage
+6285:
+  - special_bonus_undefined
+  - Undefined
+  - Undefined
+6286:
+  - special_bonus_armor_12
+  - +12 Armor
+  - Special Bonus +12 Armor
+6287:
+  - special_bonus_unique_arc_warden
+  - +175 Spark Wraith Damage
+  - Special Bonus +175 Spark Wraith Damage
+6288:
+  - special_bonus_unique_meepo
+  - -3s Poof Cooldown
+  - Special Bonus -3s Poof Cooldown
+6289:
+  - special_bonus_lifesteal_15
+  - 15% Lifesteal
+  - Special Bonus 15% Lifesteal
+6291:
+  - special_bonus_unique_ancient_apparition_2
+  - +80 Chilling Touch Damage
+  - Special Bonus +80 Chilling Touch Damage
+6292:
+  - special_bonus_unique_lich_2
+  - Attacks Apply 30% MS and AS Slow
+  - Special Bonus Attacks Apply 30% MS and AS Slow
+6293:
+  - special_bonus_unique_shadow_demon_2
+  - -1s Shadow Poison Cooldown
+  - Special Bonus -1s Shadow Poison Cooldown
+6295:
+  - special_bonus_unique_shadow_shaman_2
+  - +3s Shackles Duration
+  - Special Bonus +3s Shackles Duration
+6296:
+  - special_bonus_unique_spirit_breaker_2
+  - +500 Charge Speed
+  - Special Bonus +500 Charge Speed
+6297:
+  - special_bonus_unique_winter_wyvern_2
+  - -3s Splinter Blast Cooldown
+  - Special Bonus -3s Splinter Blast Cooldown
+6298:
+  - special_bonus_unique_witch_doctor_2
+  - +20 Voodoo Restoration Heal
+  - Special Bonus +20 Voodoo Restoration Heal
+6299:
+  - special_bonus_magic_resistance_12
+  - +12% Magic Resistance
+  - Special Bonus +12% Magic Resistance
+6300:
+  - special_bonus_unique_omniknight_2
+  - -16% Degen Aura
+  - Special Bonus -16% Degen Aura
+6301:
+  - special_bonus_gold_income_40
+  - +240 Gold/Min
+  - Special Bonus +240 Gold/Min
+6302:
+  - special_bonus_hp_regen_50
+  - +50 Health Regen
+  - Special Bonus +50 Health Regen
+6303:
+  - special_bonus_unique_monkey_king
+  - +100% Boundless Strike Crit
+  - Special Bonus +100% Boundless Strike Crit
+6305:
+  - special_bonus_unique_sniper_1
+  - +20 Shrapnel DPS
+  - Special Bonus +20 Shrapnel DPS
+6306:
+  - special_bonus_movement_speed_50
+  - +50 Movement Speed
+  - Spedcial Bonus +50 Movement Speed
+6307:
+  - special_bonus_attack_range_400
+  - +400 Attack Range
+  - Special Bonus +400 Attack Range
+6308:
+  - special_bonus_hp_regen_25
+  - +25 Health Regen
+  - Special Bonus +25 Health Regen
+6309:
+  - special_bonus_all_stats_20
+  - +20 All Stats
+  - Special Bonus +20 All Stats
+6310:
+  - special_bonus_unique_vengeful_spirit_1
+  - +100 Magic Missile Damage
+  - Special Bonus +100 Magic Missile Damage
+6311:
+  - special_bonus_hp_275
+  - +275 Health
+  - Special Bonus +275 Health
+6312:
+  - special_bonus_unique_gyrocopter_2
+  - +4 Flak Cannon Attacks
+  - Special Bonus +4 Flak Cannon Attacks
+6313:
+  - special_bonus_unique_lina_2
+  - +1 Firey Soul Max Stacks
+  - Special Bonus +1 Firey Soul Max Stacks
+6314:
+  - special_bonus_unique_doom_2
+  - Devour Can Target Ancients
+  - Special Bonus Devour Can Target Ancients
+6316:
+  - necrolyte_sadist_stop
+  - Sadist Stop
+  - Necrophos Sadist Stop
+6317:
+  - special_bonus_exp_boost_30
+  - +30% XP Gain
+  - Special Bonus +30% XP Gain
+6318:
+  - special_bonus_gold_income_50
+  - +300 Gold/Min
+  - Special Bonus +300 Gold/Min
+6320:
+  - special_bonus_unique_visage_2
+  - +120 Familiars Movement Speed
+  - Special Bonus +120 Familiars Movement Speed
+6321:
+  - special_bonus_mp_400
+  - +400 Mana
+  - Special Bonus +400 Mana
+6322:
+  - special_bonus_unique_centaur_1
+  - Gains Return Aura
+  - Special Bonus Gains Return Aura
+6325:
+  - zuus_cloud
+  - Nimbus
+  - Zeus Nimbus
+6326:
+  - special_bonus_spell_amplify_12
+  - +12% Spell Amplification
+  - Special Bonus +12% Spell Amplification
+6327:
+  - special_bonus_spell_amplify_25
+  - +25% Spell Amplification
+  - Special Bonus +25% Spell Amplification
+6328:
+  - courier_transfer_items_to_other_player
+  - Transfer Items to Other Player
+  - Courier Transfer Items to Other Player
+6330:
+  - special_bonus_unique_riki_1
+  - +0.4 Backstab Multiplier
+  - Special Bonus +0.4 Backstab Multiplier
+6331:
+  - special_bonus_unique_enchantress_1
+  - +8s Nature's Attendants Duration
+  - Special Bonus +8s Nature's Attendants Duration
+6670:
+  - special_bonus_unique_nevermore_1
+  - +2 Damage Per Soul
+  - Special Bonus +2 Damage Per Soul
+9990:
+  - roshan_halloween_candy
+  - Halloween Candy
+  - Roshan Halloween Candy
+9991:
+  - roshan_halloween_angry
+  - Halloween Angry
+  - Roshan Halloween Angry
+9993:
+  - roshan_halloween_wave_of_force
+  - Halloween Wave of Force
+  - Roshan Halloween Wave of Force
+9994:
+  - roshan_halloween_greater_bash
+  - Halloween Greater Bash
+  - Roshan Halloween Greater Bash
+9995:
+  - roshan_halloween_toss
+  - Halloween Toss
+  - Roshan Halloween Toss
+9997:
+  - roshan_halloween_shell
+  - Halloween Shell
+  - Roshan Halloween Shell
+9998:
+  - roshan_halloween_apocalypse
+  - Halloween Apocalypse
+  - Roshan Halloween Apocalypse
+9999:
+  - roshan_halloween_burn
+  - Halloween Burn
+  - Roshan Halloween Burn
+10000:
+  - roshan_halloween_levels
+  - Halloween Levels
+  - Roshan Halloween Levels
+10001:
+  - roshan_halloween_summon
+  - Halloween Summon
+  - Roshan Halloween Summon
+10002:
+  - roshan_halloween_fireball
+  - Halloween Fireball
+  - Roshan Halloween Fireball
