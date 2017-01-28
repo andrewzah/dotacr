@@ -7,11 +7,12 @@ module Dota
       getter id : Int32, name : String, fullName : String
       private getter internalName : String
 
-      def initialize(id : Int32)
+      def initialize(id : Int8 | Int16 | Int32)
         @id = id
-        @internalName = mapping["#{@id}"][0].to_s
-        @name = mapping["#{@id}"][1].to_s
-        @fullName = mapping["#{@id}"][2].to_s
+        map = mapping["#{@id}"]
+        @internalName = map[0].to_s
+        @name = map[1].to_s
+        @fullName = map[2].to_s
       end
 
       def image_url(type = :lg)

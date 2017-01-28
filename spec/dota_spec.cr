@@ -15,7 +15,7 @@ describe Dota do
 
   # Set up API with Travis env vars
   Dota::Dota.configure do |config|
-    config.api_key = ENV["api_key"]
+    config.api_key = ENV["DOTA_API_KEY"]
   end
   api = Dota::Dota.api
 
@@ -50,11 +50,15 @@ describe Dota do
 
     it "gets abilities" do
       abilities = api.abilities
-      abilities.size.should eq 570
+      abilities.size.should eq 1000
     end
   end
 
   describe "client requests" do
+    it "gets last match" do
+      api.last_match(68351653).should be_a Dota::API::BasicMatch
+    end
+
     it "gets leagues" do
       api.leagues.should be_a Array(Dota::API::League)
     end

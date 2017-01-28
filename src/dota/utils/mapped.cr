@@ -7,7 +7,7 @@ module Dota
       def mapping
         @@mapping ||= begin
           filename = "#{{{@type.name.split("::").last.downcase}}}.yml"
-          path = File.join(".", "data", filename)
+          path = File.join(__DIR__, "../../../data", filename)
           YAML.parse(File.read(path))
         end
       end

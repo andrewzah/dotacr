@@ -15,10 +15,11 @@ module Dota
         end
       end
 
-      def initialize(id : Int32)
+      def initialize(id : Int8 | Int16 | Int32)
         @id = id
-        @internalName = mapping["#{id}"][0].to_s
-        @name = mapping["#{id}"][1].to_s
+        map = mapping["#{id}"]
+        @internalName = map[0].to_s
+        @name = map[1].to_s
       end
 
       def image_url(type = :full)

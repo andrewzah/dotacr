@@ -9,8 +9,9 @@ module Dota
 
       def initialize(id)
         @id = id
-        @internalName = mapping["#{id}"][0].to_s
-        @name = mapping["#{id}"][1].to_s
+        map = mapping["#{id}"]
+        @internalName = map[0].to_s
+        @name = map[1].to_s
       end
 
       # Possible values for type:

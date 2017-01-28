@@ -57,6 +57,11 @@ module Dota
         response.teams if response.teams.size > 0
       end
 
+      def last_match(accountID)
+        options = {"account_id" => accountID, "matches_requested" => 1}
+        response = get("GetMatchHistory", BasicMatchesList, "IDOTA2Match_570", options).matches.first
+      end
+
       def match(matchID : Int32)
         response = get("GetMatchDetails", Match, "IDOTA2Match_570", {"match_id" => matchID})
       end

@@ -2334,33 +2334,6 @@
   - life_stealer_assimilate_eject
   - Eject
   - Life Stealer Eject
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 5676:
   - courier_take_stash_and_transfer_items
   - Take Stash and Transfer Items
@@ -2488,7 +2461,7 @@
 5906:
   - special_bonus_attack_speed_20
   - +20 Attack Speed
-  + Special Bonus +20 Attack Speed
+  - Special Bonus +20 Attack Speed
 5907:
   - special_bonus_attack_speed_30
   - +30 Attack Speed
@@ -2656,7 +2629,7 @@
 5948:
   - special_bonus_spell_amplify_5
   - +5% Spell Amplification
-  = Special Bonus +5% Spell Amplification
+  - Special Bonus +5% Spell Amplification
 5949:
   - special_bonus_spell_amplify_8
   - +8% Spell Amplification
@@ -3031,13 +3004,15 @@
   - Special Bonus +300 Attack Range
 6052:
   - special_bonus_unique_shadow_shaman_1
-  - "+1 Serpent Wards Attacks HP"
+  - +1 Serpent Wards Attacks HP
+  - Special Bonus +1 Serpent Wards Attacks HP
 6053:
   - special_bonus_unique_warlock_1
   - Magic Immunity for Chaotic Offering Golems
   - Special Bonus Magic Immunity for Chaotic Offering Golems
 6054:
   - special_bonus_unique_warlock_2
+  - +15 Chaotic Offering Golems Armor
   - Special Bonus +15 Chaotic Offering Golems Armor
 6055:
   - special_bonus_spell_amplify_15
