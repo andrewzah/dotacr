@@ -22,7 +22,8 @@ module Dota
       end
 
       enum Tiers
-        Amateur      = 1
+        Unknown      = 0
+        Amateur
         Professional
         Premier
       end

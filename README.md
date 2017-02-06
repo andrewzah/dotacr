@@ -1,6 +1,6 @@
-![Logo](http://sli.mg/24VTkn.png)
+![Logo](https://i.imgur.com/DekYueq.png)
 
-[![Build Status](https://travis-ci.org/azah/dotacr.svg?branch=master)](https://travis-ci.org/azah/dotacr)   [![docs](https://img.shields.io/badge/docs-latest-green.svg)](https://azah.github.io/dotacr/doc/master/)
+[![Build Status](https://travis-ci.org/azah/dotacr.svg?branch=master)](https://travis-ci.org/azah/dotacr)   [![docs](https://img.shields.io/badge/docs-latest-green.svg)](https://azah.github.io/dotacr/doc/)
 
 # dotacr
 

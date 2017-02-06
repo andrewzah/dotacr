@@ -39,7 +39,7 @@ describe Dota do
 
     it "gets heroes" do
       heroes = api.heroes
-      heroes.size.should eq 112
+      heroes.size.should eq 113
     end
 
     it "gets ability" do
