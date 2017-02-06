@@ -4,10 +4,10 @@ module Dota
       include Utilities::Mapped
       extend Utilities::Mapped
 
-      getter id : Int32, name : String
+      getter id : Int8 | Int32, name : String
       private getter internalName : String
 
-      def initialize(id)
+      def initialize(id : Int8 | Int32)
         @id = id
         map = mapping["#{id}"]
         @internalName = map[0].to_s
