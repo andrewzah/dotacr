@@ -62,7 +62,7 @@ module Dota
         response = get("GetMatchHistory", BasicMatchesList, "IDOTA2Match_570", options).matches.first
       end
 
-      def match(matchID : Int32)
+      def match(matchID : Int32 | Int64)
         response = get("GetMatchDetails", Match, "IDOTA2Match_570", {"match_id" => matchID})
       end
 
@@ -132,7 +132,7 @@ module Dota
           end
         end
 
-        # Lazy, lazy valve is not consistent
+        # valve is not consistent
         # the root key is different among interfaces.
         if interface == "ISteamUser"
           body = response.body.sub("friendslist", "result")

@@ -34,7 +34,7 @@ module Dota
         end
       end
 
-      enum Types
+      enum LobbyTypes
         Invalid           = -1
         PublicMatchmaking
         Practice

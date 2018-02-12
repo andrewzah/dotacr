@@ -18,7 +18,7 @@ module Dota
         barracks_status_dire: Barracks,
         cluster: Int32,
         first_blood_time: Int32,
-        lobby_type: GameModes,
+        lobby_type: LobbyTypes,
         human_players: Int8,
         leagueid: Int32,
         positive_votes: Int32,

@@ -6,17 +6,18 @@ module Dota
         getter logo, complete, captain, picks_bans, players
 
         def initialize(
-                       side : Symbol,
-                       @score : Int32,
-                       @barracks_status : Barracks,
-                       @tower_status : Towers,
-                       @team_id : Int32 | Nil = nil,
-                       @team_name : String | Nil = nil,
-                       @team_logo : String | Nil = nil,
-                       @team_complete : Int32 | Nil = nil,
-                       @team_captain : Int32 | Nil = nil,
-                       @picks_bans : Array(Draft) | Nil = nil,
-                       @players : Array(Player) | Nil = nil)
+          side : Symbol,
+          @score : Int32,
+          @barracks_status : Barracks,
+          @tower_status : Towers,
+          @team_id : Int32 | Nil = nil,
+          @team_name : String | Nil = nil,
+          @team_logo : String | Nil = nil,
+          @team_complete : Int32 | Nil = nil,
+          @team_captain : Int32 | Nil = nil,
+          @picks_bans : Array(Draft) | Nil = nil,
+          @players : Array(Player) | Nil = nil
+        )
           @players = sort_players(side)
           @picks_bans = sort_picks_bans(side)
         end

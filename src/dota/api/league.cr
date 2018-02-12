@@ -10,8 +10,8 @@ module Dota
 
     class League
       JSON.mapping(
-        leagueid: Int32,
         name: String,
+        leagueid: Int32,
         description: String,
         tournament_url: String,
         itemdef: Int32

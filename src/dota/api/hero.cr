@@ -8,7 +8,7 @@ module Dota
       private getter internalName : String
 
       def self.find(id)
-        if mapping["#{id}"]?
+        if mapping[id]?
           new(id)
         else
           raise Exception.new("Hero does not exist")
@@ -17,7 +17,7 @@ module Dota
 
       def initialize(id : Int8 | Int32)
         @id = id
-        map = mapping["#{id}"]
+        map = mapping[id]
         @internalName = map[0].to_s
         @name = map[1].to_s
       end

@@ -9,7 +9,7 @@ module Dota
 
       def initialize(id : Int8 | Int32)
         @id = id
-        map = mapping["#{@id}"]
+        map = mapping[id]
         @internalName = map[0].to_s
         @name = map[1].to_s
         @fullName = map[2].to_s

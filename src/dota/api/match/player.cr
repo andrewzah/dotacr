@@ -16,13 +16,25 @@ module Dota
           denies: Int16,
           gold_per_min: Int16,
           xp_per_min: Int16,
-          item0_id: {type: Int16, key: "item_0"},
-          item1_id: {type: Int16, key: "item_1"},
-          item2_id: {type: Int16, key: "item_2"},
-          item3_id: {type: Int16, key: "item_3"},
-          item4_id: {type: Int16, key: "item_4"},
-          item5_id: {type: Int16, key: "item_5"}
+          item0_id: {type: Int32, key: "item_0"},
+          item1_id: {type: Int32, key: "item_1"},
+          item2_id: {type: Int32, key: "item_2"},
+          item3_id: {type: Int32, key: "item_3"},
+          item4_id: {type: Int32, key: "item_4"},
+          item5_id: {type: Int32, key: "item_5"}
         )
+
+        def items
+          {item0_id,
+           item1_id,
+           item2_id,
+           item3_id,
+           item4_id,
+           item5_id,
+          }.reject { |v| v == 0 }
+           .map { |v| Item.new(v).name }
+           .join(", ")
+        end
       end
     end
   end

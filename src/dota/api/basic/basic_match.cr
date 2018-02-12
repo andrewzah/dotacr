@@ -17,7 +17,7 @@ module Dota
         match_id: Int64,
         match_seq_num: Int64,
         start_time: Int32,
-        lobby_type: GameModes,
+        lobby_type: LobbyTypes,
         radiant_team_id: Int32,
         dire_team_id: Int32,
         players: Array(BasicPlayer)
