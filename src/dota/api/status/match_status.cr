@@ -71,6 +71,7 @@ module Dota
         AllRandomDeathMatch
         SoloMid1v1
         RankedAllPick
+        Turbo
       end
 
       enum SkillLevels
