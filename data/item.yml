@@ -661,6 +661,12 @@
 221:
   - recipe_lotus_orb
   - "Recipe: Lotus Orb"
+223:
+  - meteor_hammer
+  - Meteor Hammer
+225:
+  - nullifier
+  - Nullifier
 226:
   - lotus_orb
   - Lotus Orb
@@ -748,9 +754,24 @@
 254:
   - glimmer_cape
   - Glimmer Cape
+255:
+  - recipe_aeon_disk
+  - Aeon Disk Recipe
+256:
+  - aeon_disk
+  - Aeon Disk
+258:
+  - recipe_kaya
+  - Kaya Recipe
+259:
+  - kaya
+  - Kaya
 257:
   - tome_of_knowledge
   - Tome of Knowledge
+260:
+  - refresher_shard
+  - Refresher Shard
 262:
   - recipe_hurricane_pike
   - "Recipe: Hurricane Pike"
@@ -763,6 +784,15 @@
 265:
   - infused_raindrop
   - Infused Raindrop
+266:
+  - recipe_spirit_vessel
+  - Spirit Vessel Recipe
+267:
+  - spirit_vessel
+  - Spirit Vessel
+275:
+  - trident
+  - Trident
 1000:
   - halloween_candy_corn
   - Greevil Taffy
