@@ -29,7 +29,7 @@ module Dota
         # :sb - small horizontal portrait (59x33px, PNG)
         # :vert - full quality vertical portrait (234x272px, JPEG)
 
-        "http://cdn.dota2.com/apps/dota2/images/heroes/#{@internal_name}_#{type}.#{type == :vert ? "jpg" : "png"}"
+        "http://cdn.dota2.com/apps/dota2/images/heroes/#{@internalName}_#{type}.#{type == :vert ? "jpg" : "png"}"
       end
     end
   end
